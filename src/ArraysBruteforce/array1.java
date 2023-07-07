@@ -1,4 +1,4 @@
-package Arrays;
+package ArraysBruteforce;
 
 public class array1
 {
