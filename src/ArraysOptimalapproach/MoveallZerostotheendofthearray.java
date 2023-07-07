@@ -9,6 +9,7 @@ public class MoveallZerostotheendofthearray
             if (a[i] == 0) {
                 j = i;
                 break;
+
             }
         }
 
@@ -36,7 +37,7 @@ public class MoveallZerostotheendofthearray
         for (int i = 0; i < n; i++) {
             System.out.print(ans[i] + " ");
         }
-        System.out.println("");
+        //System.out.println("");
     }
 }
 //Time Complexity: O(N), N = size of the array.
