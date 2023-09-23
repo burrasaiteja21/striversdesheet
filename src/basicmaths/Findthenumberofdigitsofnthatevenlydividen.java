@@ -8,8 +8,7 @@ public class Findthenumberofdigitsofnthatevenlydividen {
     }
     public static int countDigits(int n)
     {
-
-        int count=0;
+       int count=0;
         int value=n;
         while(value>0)
         {
